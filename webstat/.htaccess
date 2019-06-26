@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/redlips.by/webstat"
+AuthUserFile /var/www/zazoo/data/etc/105398964.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

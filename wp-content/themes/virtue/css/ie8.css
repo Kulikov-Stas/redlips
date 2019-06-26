@@ -1,0 +1,19 @@
+img {
+	border:none;
+}
+
+header {
+	background: url(../images/ie-bg.png) repeat;
+}
+
+.item-holder {
+	background: url(../images/slider-bg.png) repeat;
+}
+
+.annonced {
+	z-index: 9
+}
+
+input {
+	padding-top: 10px
+}

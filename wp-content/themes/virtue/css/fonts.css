@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'vogue_highline_sansregular';
+    src: url('fonts/voguehighlinesans-webfont.eot');
+    src: url('fonts/voguehighlinesans-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/voguehighlinesans-webfont.woff') format('woff'),
+         url('fonts/voguehighlinesans-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'vogue_highline_sansbold';
+    src: url('fonts/voguehighlinesans-bold-webfont.eot');
+    src: url('fonts/voguehighlinesans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/voguehighlinesans-bold-webfont.woff') format('woff'),
+         url('fonts/voguehighlinesans-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'vogue_highline_sanslight';
+    src: url('fonts/voguehighlinesans-light-webfont.eot');
+    src: url('fonts/voguehighlinesans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/voguehighlinesans-light-webfont.woff') format('woff'),
+         url('fonts/voguehighlinesans-light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
